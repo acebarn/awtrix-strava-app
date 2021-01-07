@@ -14,7 +14,7 @@ Based on the Strava API `stats`-Endpoint, this app will display the following va
 ## Setup
 First, you need to create a Strava App in your profile settings under: https://www.strava.com/settings/api
 
-Next, you need to insert the obtained *clientID* and *clientSecret* into the globals section of `Strava.b4j`
+Next, you need to insert the obtained *clientID* and *clientSecret* into the globals section of `Strava.bas`
 
 After Compilation as described in the official AWTRIX documentation, you should be able to see the Strava app in the "my apps" section in the AWTRIX webinterface.
 
