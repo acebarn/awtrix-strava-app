@@ -12,8 +12,8 @@ Sub Class_Globals
 	'Declare your variables here
 	
 	
-	Dim ClientID As String = "32773"
-	Dim ClientSecret As String ="b7ef32703cf4ad13b1654d49fafb49fb757f6be5"
+	Dim ClientID As String = ""
+	Dim ClientSecret As String =""
 	
 End Sub
 
