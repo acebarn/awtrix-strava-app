@@ -157,7 +157,7 @@ Sub App_evalJobResponse(Resp As JobResponse)
 					Dim ytdRideTotalsObj As Map = root.Get("ytd_ride_totals")
 					Dim ytdRunTotalsObj As Map = root.Get("ytd_run_totals")
 					Dim recentRideTotalsObj As Map = root.Get("recent_ride_totals")
-					Dim recentRunTotalsObj As Map = root.Get("recent_ride_totals")
+					Dim recentRunTotalsObj As Map = root.Get("recent_run_totals")
 					
 					'Dim recent_ride_distance As String = recentRideTotalsObj.Get("distance")
 					'Dim recent_ride_elev As String = recentRideTotalsObj.Get("elevation_gain")
